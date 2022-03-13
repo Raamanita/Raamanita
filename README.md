@@ -1,4 +1,4 @@
-- 👋 Olá, eu soy @Raamanita
+- 👋 Olá, eu sou a Raamanita!
 - 👩🏻‍💻 Estou estudando lógica de programação
 
 
