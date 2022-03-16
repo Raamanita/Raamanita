@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Raamanita!
-- 👩🏻‍💻 Estou estudando lógica de programação
+- 👩🏻‍💻 Estou estudando Análise e Desenvolvimento de Sistemas
 
 
 <!---
