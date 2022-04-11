@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou a Raamanita!
-- 👩🏻‍💻 Estou estudando Análise e Desenvolvimento de Sistemas
+- 👋 Hi, I'm Raamanita!
+- 👩🏻‍💻I'm a systems analysis and development student.
 
 
 <!---
