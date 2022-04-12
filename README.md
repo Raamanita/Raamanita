@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Raamanita!
-- 👩🏻‍💻I'm a systems analysis and development student.
+- 👩🏻‍💻 I'm a systems analysis and development student.
 
 
 <!---
@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
     
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raamanita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raamanita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raamanita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raamanita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/951496225998393424/951500756907884544/20220310_122101-2.gif">
   
   ##
