@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Raamanita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raamanita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raamanita-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Raamanita-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/968995014308933733/987106807740792892/20220616_172905.gif"
+  <img align="right" alt="Raamanita-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/968995014308933733/987107092693405756/IMG-20220616-WA0014.jpg"
 </div>
   
   ##
