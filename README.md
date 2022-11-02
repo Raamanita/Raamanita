@@ -1,6 +1,6 @@
 - ☕ Hi, I'm Raamanita!!
 - 📚
-- 👩🏻‍💻 I'm a computer networking student and Iaim at the area of Cibersecurity.
+- 👩🏻‍💻 I'm a computer networking student and my objective is the Cibersecurity area.
 
 
 <!---
