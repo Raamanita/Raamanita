@@ -1,6 +1,6 @@
 - ☕ Hi, I'm Raamanita!!
 - 📚
-- 👩🏻‍💻 I'm a systems analysis and development student.
+- 👩🏻‍💻 I'm a computer networking student and Iaim at the area of Cibersecurity.
 
 
 <!---
