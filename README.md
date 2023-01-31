@@ -1,7 +1,6 @@
 - ☕ Hi, I'm Raamanita!!
-- 📚
-- 👩🏻‍💻 I'm a computer networking student and my objective is the Cibersecurity area.
-
+- 📚 
+- 👩🏻‍💻 I'm a student of Cybernetic defense and my goal is the area of ​​Cybersecurity.
 
 <!---
 Raamanita/Raamanita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
